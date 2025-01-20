@@ -1,0 +1,1 @@
+This repository demonstrates a common off-by-one error in Java that leads to an ArrayIndexOutOfBoundsException. The `BuggyArrayAccess.java` file shows the erroneous code. The correct version is shown in `FixedArrayAccess.java`. This error is easily missed and often arises from loop conditions.
